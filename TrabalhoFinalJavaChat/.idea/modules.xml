@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SuperChatXouClient/SuperChatXouClient.iml" filepath="$PROJECT_DIR$/SuperChatXouClient/SuperChatXouClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperChatXouServer/SuperChatXouServer.iml" filepath="$PROJECT_DIR$/SuperChatXouServer/SuperChatXouServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrabalhoFinalJavaChat.iml" filepath="$PROJECT_DIR$/.idea/TrabalhoFinalJavaChat.iml" />
+    </modules>
+  </component>
+</project>

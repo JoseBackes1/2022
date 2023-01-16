@@ -1,0 +1,8 @@
+classe abstrata = nao pode ser instanciada. nao pode gerar objeto
+
+metodo abstrato = declarado, mas nao implementado na progenitora
+
+classe final = nao pode ser herdada por outra classe. Obrigatoriamente folha
+
+metodo final = nao pode ser subescrito pelas suas sub-classes. Obrigatoriamente herdado
+
